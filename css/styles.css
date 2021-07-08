@@ -194,8 +194,20 @@ nav ul li a:hover {
     border-radius: 3rem;
 }
 
-.col-sm-2 {
+.categorias .col-sm-2 {
     margin-right: 2.6rem;
+}
+
+.categorias h1 {
+    color: #585858;
+    font-size: 1.3rem;
+    letter-spacing: 0.4rem;
+}
+
+.categorias b {
+    border-bottom: 3px solid #fd4d73;
+    padding-bottom: 1px;
+    border-radius: 10px
 }
 
 .card-title .serie,
